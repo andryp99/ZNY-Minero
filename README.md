@@ -32,4 +32,8 @@ sudo make install
 
 cd ~/cpuminer
 
-./minerd -a yescrypt -o stratum+tcp://wpool.work:15020 -u ZmeV1zapwaLBBJ3nuXHYBoYqaeLjXtmS5v
+./minerd -a yescrypt -o stratum+tcp://wpool.work:15020 -u DIRECCION-WALLET
+
+
+
+Donaciones - ZmeV1zapwaLBBJ3nuXHYBoYqaeLjXtmS5v
